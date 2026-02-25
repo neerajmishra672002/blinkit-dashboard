@@ -36,6 +36,6 @@ The Solution: Developed custom DAX measures to calculate weighted averages for r
 The Challenge: Fitting 8+ different visualizations into one screen without overwhelming the user.
 The Solution: Applied a tiled layout with clear white-space separation and adopted the Blinkit brand guidelines (Yellow/Black/White). I used a left-hand navigation pane for slicers to maximize the "real estate" for the actual data charts.
 screenshot
-
+https://github.com/neerajmishra672002/blinkit-dashboard/blob/main/blinkitdashboardss.png
 
 
